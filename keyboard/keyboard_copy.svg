@@ -1,0 +1,147 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="42.5"
+   height="47.5"
+   id="svg4287"
+   version="1.1"
+   inkscape:version="0.48.4 r9939"
+   sodipodi:docname="keyboard_redo.svg">
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="11.2"
+     inkscape:cx="21.1489"
+     inkscape:cy="22.611173"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     showguides="true"
+     inkscape:guide-bbox="true"
+     inkscape:window-width="1024"
+     inkscape:window-height="721"
+     inkscape:window-x="-4"
+     inkscape:window-y="-4"
+     inkscape:window-maximized="1"
+     fit-margin-top="0"
+     fit-margin-left="0"
+     fit-margin-right="0"
+     fit-margin-bottom="0" />
+  <defs
+     id="defs4289" />
+  <metadata
+     id="metadata4292">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     transform="translate(-357,-334.71875)"
+     id="layer1"
+     inkscape:groupmode="layer"
+     inkscape:label="Layer 1">
+    <path
+       sodipodi:nodetypes="sssssssss"
+       inkscape:connector-curvature="0"
+       id="path4561"
+       d="m 357.1409,342.81248 c 0,-6.87396 1.24728,-7.94338 7.40903,-7.94338 3.6208,0 18.00108,0 27.00162,0 6.3689,0 7.8051,1.34324 7.8051,6.42073 0,11.39767 0,21.73995 0,33.13762 0,6.00135 -1.10337,7.64655 -7.32337,7.64655 -9.97297,0 -19.27432,-1e-5 -29.24728,0 -4.35417,0 -5.6451,-1.48229 -5.6451,-5.81477 0,-8.96075 0,-29.82595 0,-33.44675 z"
+       style="fill:none;stroke:#000000;stroke-width:0.30393794;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" />
+    <g
+       id="g3018"
+       transform="translate(-15.8511,24.888827)"
+       inkscape:label="Hershey Text">
+      <path
+         id="path3020"
+         transform="translate(10,0)"
+         d="M 8 -7 L 7 -9 L 5 -11 L 3 -12 L -1 -12 L -3 -11 L -5 -9 L -6 -7 L -7 -4 L -7 1 L -6 4 L -5 6 L -3 8 L -1 9 L 3 9 L 5 8 L 7 6 L 8 4"
+         style="stroke:#000000;fill:none" />
+      <path
+         id="path3022"
+         transform="translate(30,0)"
+         d="M -1 -5 L -3 -4 L -5 -2 L -6 1 L -6 3 L -5 6 L -3 8 L -1 9 L 2 9 L 4 8 L 6 6 L 7 3 L 7 1 L 6 -2 L 4 -4 L 2 -5 L -1 -5"
+         style="stroke:#000000;fill:none" />
+      <path
+         id="path3024"
+         transform="translate(50,0)"
+         d="M -6 -5 L -6 16 M -6 -2 L -4 -4 L -2 -5 L 1 -5 L 3 -4 L 5 -2 L 6 1 L 6 3 L 5 6 L 3 8 L 1 9 L -2 9 L -4 8 L -6 6"
+         style="stroke:#000000;fill:none" />
+      <path
+         id="path3026"
+         transform="translate(67,0)"
+         d="M -6 -5 L 0 9 M 6 -5 L 0 9 L -2 13 L -4 15 L -6 16 L -7 16"
+         style="stroke:#000000;fill:none" />
+    </g>
+    <g
+       inkscape:label="Hershey Text"
+       transform="translate(-15.8511,24.888827)"
+       id="g3052">
+      <path
+         style="stroke:#000000;fill:none"
+         d="M 8 -7 L 7 -9 L 5 -11 L 3 -12 L -1 -12 L -3 -11 L -5 -9 L -6 -7 L -7 -4 L -7 1 L -6 4 L -5 6 L -3 8 L -1 9 L 3 9 L 5 8 L 7 6 L 8 4"
+         transform="translate(10,0)"
+         id="path3054" />
+      <path
+         style="stroke:#000000;fill:none"
+         d="M -1 -5 L -3 -4 L -5 -2 L -6 1 L -6 3 L -5 6 L -3 8 L -1 9 L 2 9 L 4 8 L 6 6 L 7 3 L 7 1 L 6 -2 L 4 -4 L 2 -5 L -1 -5"
+         transform="translate(30,0)"
+         id="path3056" />
+      <path
+         style="stroke:#000000;fill:none"
+         d="M -6 -5 L -6 16 M -6 -2 L -4 -4 L -2 -5 L 1 -5 L 3 -4 L 5 -2 L 6 1 L 6 3 L 5 6 L 3 8 L 1 9 L -2 9 L -4 8 L -6 6"
+         transform="translate(50,0)"
+         id="path3058" />
+      <path
+         style="stroke:#000000;fill:none"
+         d="M -6 -5 L 0 9 M 6 -5 L 0 9 L -2 13 L -4 15 L -6 16 L -7 16"
+         transform="translate(67,0)"
+         id="path3060" />
+    </g>
+  </g>
+  <g
+     id="g3226"
+     transform="matrix(0.39386318,0,0,0.39386318,5.7535277,23.91926)"
+     inkscape:label="Hershey Text">
+    <path
+       id="path3228"
+       transform="translate(10,0)"
+       d="m 8,-7 -1,-2 -2,-2 -2,-1 -4,0 -2,1 -2,2 -1,2 -1,3 0,5 1,3 1,2 2,2 2,1 L 3,9 5,8 7,6 8,4"
+       style="fill:none;stroke:#000000"
+       inkscape:connector-curvature="0" />
+    <path
+       id="path3230"
+       transform="translate(30,0)"
+       d="m -1,-5 -2,1 -2,2 -1,3 0,2 1,3 2,2 2,1 L 2,9 4,8 6,6 7,3 7,1 6,-2 4,-4 2,-5 -1,-5"
+       style="fill:none;stroke:#000000"
+       inkscape:connector-curvature="0" />
+    <path
+       id="path3232"
+       transform="translate(50,0)"
+       d="m -6,-5 0,21 m 0,-18 2,-2 2,-1 3,0 2,1 2,2 L 6,1 6,3 5,6 3,8 1,9 -2,9 -4,8 -6,6"
+       style="fill:none;stroke:#000000"
+       inkscape:connector-curvature="0" />
+    <path
+       id="path3234"
+       transform="translate(67,0)"
+       d="M -6,-5 0,9 M 6,-5 0,9 l -2,4 -2,2 -2,1 -1,0"
+       style="fill:none;stroke:#000000"
+       inkscape:connector-curvature="0" />
+  </g>
+</svg>
